@@ -1,2 +1,2 @@
-# perancangan-sistem-informasi-Apotek-Bandung-bdr-srs-
-end-to-end : system analyst : BDR, SRS
+# perancangan-sistem-informasi-Apotek-Bandung-brd-srs-
+end-to-end : system analyst : BRD, SRS
